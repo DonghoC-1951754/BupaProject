@@ -1,26 +1,26 @@
 {
-    "id": "F15A20BB",
+    "id": "00E0FFC8",
     "path": "C:/Users/Ellen Vaesen/Documents/Academiejaar 2024-2025/Semester 1/Business process analytics/Assignment/BupaProject/project.R",
     "project_path": "project.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1710850247",
     "contents": "",
     "dirty": false,
-    "created": 1732704420222.0,
+    "created": 1732705188665.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
         "cursorPosition": "31,0",
-        "scrollLine": "0"
+        "scrollLine": "14"
     },
     "folds": "",
     "lastKnownWriteTime": 1732705195,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732705195,
+    "last_content_update": 1732705195384,
     "read_only": false,
     "read_only_alternatives": []
 }
